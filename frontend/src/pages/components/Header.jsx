@@ -32,11 +32,6 @@ function Header() {
                             </Link>
                         </li>
                         <li>
-                            <Link to='/logout'>
-                                <FaSignOutAlt /> Logout
-                            </Link>
-                        </li>
-                        <li>
                             <Link to='/register'>
                                 <FaUser /> Register
                             </Link>
